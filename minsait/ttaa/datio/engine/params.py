@@ -1,0 +1,1 @@
+valor_menores = 0
